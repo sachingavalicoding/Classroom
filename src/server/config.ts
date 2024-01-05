@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-var-requires */
 import { Client, Account, Storage, Databases, Avatars } from "appwrite";
 
 export const appWriteConfig = {
