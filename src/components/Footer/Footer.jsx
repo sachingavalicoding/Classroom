@@ -2,7 +2,7 @@
 
 const Footer = () => {
     return (
-        <div>Footer</div>
+        <div className="w-full h-[10rem] bg-black flex items-center justify-center text-white ">Footer</div>
     )
 }
 
